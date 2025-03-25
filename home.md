@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Journal of Orthoptera Research
+description: Browse data on GBIF associated with publications in Journal of Orthoptera Research
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Conle OV, Hennemann FH, Valero P (2020) Studies on neotropical Phasmatodea XXII: Two new species of _Taraxippus_ (Phasmatodea: Cladomorphinae: Hesperophasmatini) and the first record of the genus from Central America. Journal of Orthoptera Research 29(1): 101-114. [https://doi.org/10.3897/jor.29.51328](https://doi.org/10.3897/jor.29.51328)"
 height: 75vh
 cta:
   - text: Datasets
