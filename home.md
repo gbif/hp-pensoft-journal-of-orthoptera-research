@@ -5,7 +5,7 @@ preTitle: Hosted Portal
 title: Journal of Orthoptera Research
 description: Browse data on GBIF associated with publications in Journal of Orthoptera Research
 background: /assets/images/placeholders/hp-cover.jpg
-imageLicense: "Conle OV, Hennemann FH, Valero P (2020) Studies on neotropical Phasmatodea XXII: Two new species of _Taraxippus_ (Phasmatodea: Cladomorphinae: Hesperophasmatini) and the first record of the genus from Central America. Journal of Orthoptera Research 29(1): 101-114. [https://doi.org/10.3897/jor.29.51328](https://doi.org/10.3897/jor.29.51328)"
+imageLicense: "Hemp C (2023) _Acrida bara_, synomymous with _A. sulphuripennis_ (Orthoptera, Acrididae, Acridinae). Journal of Orthoptera Research 32(2): 115-117. [https://doi.org/10.3897/jor.32.93481](https://doi.org/10.3897/jor.32.93481)"
 height: 75vh
 cta:
   - text: Datasets
