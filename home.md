@@ -4,7 +4,7 @@ layout: home
 preTitle: Hosted Portal
 title: Journal of Orthoptera Research
 description: Browse data on GBIF associated with publications in Journal of Orthoptera Research
-background: /assets/images/placeholders/hp-cover.jpg
+background: /assets/images/placeholders/hp-cover-new.jpg
 imageLicense: "Hemp C (2023) _Acrida bara_, synomymous with _A. sulphuripennis_ (Orthoptera, Acrididae, Acridinae). Journal of Orthoptera Research 32(2): 115-117. [https://doi.org/10.3897/jor.32.93481](https://doi.org/10.3897/jor.32.93481)"
 height: 75vh
 cta:
